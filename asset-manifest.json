@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-CRUD/static/css/main.4fc26fdb.css",
+    "main.js": "/my-CRUD/static/js/main.351c9648.js",
+    "static/js/787.45bb5bd2.chunk.js": "/my-CRUD/static/js/787.45bb5bd2.chunk.js",
+    "index.html": "/my-CRUD/index.html",
+    "main.4fc26fdb.css.map": "/my-CRUD/static/css/main.4fc26fdb.css.map",
+    "main.351c9648.js.map": "/my-CRUD/static/js/main.351c9648.js.map",
+    "787.45bb5bd2.chunk.js.map": "/my-CRUD/static/js/787.45bb5bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc26fdb.css",
+    "static/js/main.351c9648.js"
+  ]
+}
